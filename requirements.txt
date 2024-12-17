@@ -1,3 +1,4 @@
+ipykernel
 langchain
 langchain-openai
 langchain-chroma
