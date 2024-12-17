@@ -1,0 +1,8 @@
+# Appropriateness Category Names and Definitions
+
+| Appropriateness Category Name         | Appropriateness Rating | Appropriateness Category Definition                                                                                  |
+|---------------------------------------|-------------------------|-----------------------------------------------------------------------------------------------------------------------|
+| **Usually Appropriate**               | 7, 8, or 9             | The imaging procedure or treatment is indicated in the specified clinical scenarios at a favorable risk-benefit ratio for patients. |
+| **May Be Appropriate**                | 4, 5, or 6             | The imaging procedure or treatment may be indicated in the specified clinical scenarios as an alternative to imaging procedures or treatments with a more favorable risk-benefit ratio, or the risk-benefit ratio for patients is equivocal. |
+| **May Be Appropriate (Disagreement)** | 5                       | The individual ratings are too dispersed from the panel median. The different label provides transparency regarding the panel’s recommendation. “May be appropriate” is the rating category and a rating of 5 is assigned. |
+| **Usually Not Appropriate**           | 1, 2, or 3             | The imaging procedure or treatment is unlikely to be indicated in the specified clinical scenarios, or the risk-benefit ratio for patients is likely to be unfavorable. |
